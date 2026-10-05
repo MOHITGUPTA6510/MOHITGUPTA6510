@@ -118,45 +118,6 @@ A Django-based healthcare waste management platform designed to manage the lifec
 
 ---
 
-## 🛡️ Air-Gapped Predictive Copilot
-
-An offline AI-assisted system designed for secure network operations.
-
-The project focuses on predicting network problems while keeping the system completely isolated from external services.
-
-**Concepts:**
-
-* Network monitoring
-* Failure prediction
-* Synthetic network simulation
-* Machine Learning
-* RAG
-* Local runbooks
-* Incident analysis
-* Offline / air-gapped architecture
-
-**Tech:** `Python` `Machine Learning` `Flask` `RAG` `Scikit-learn`
-
----
-
-## 🌪️ Turbulence Data Visualization & Analysis System
-
-An interactive system for analyzing and visualizing turbulence and fluid-flow data.
-
-**Features:**
-
-* Velocity magnitude visualization
-* Vector fields
-* Vorticity
-* Streamlines
-* Region statistics
-* Time-based analysis
-* Data comparison
-* Visualization export
-
-**Tech:** `Python` `FastAPI` `React` `NumPy` `Pandas` `SciPy` `Plotly`
-
----
 
 ## 📹 YouTube High-Resolution Downloader
 
@@ -172,16 +133,6 @@ A Python desktop application for downloading YouTube videos through a simple gra
 * Download workflow automation
 
 **Tech:** `Python` `Tkinter` `yt-dlp`
-
----
-
-# 💼 Experience
-
-### Data Analytics Intern — Digipodium
-
-**January 2026 – Present**
-
-Working on data analytics-related tasks and gaining practical experience with data processing, analysis and visualization.
 
 ---
 
