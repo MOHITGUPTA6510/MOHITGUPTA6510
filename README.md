@@ -227,29 +227,6 @@ Web Development
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/MOHITGUPTA6510/MOHITGUPTA6510/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/MOHITGUPTA6510/MOHITGUPTA6510/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake"
-         src="https://raw.githubusercontent.com/MOHITGUPTA6510/MOHITGUPTA6510/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHITGUPTA6510&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="left">
